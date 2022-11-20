@@ -1,0 +1,11 @@
+.tasks{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.zadachkino__img{
+    min-width: 400px;
+    max-width: 40%;
+}
